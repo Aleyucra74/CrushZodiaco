@@ -60,7 +60,7 @@
 	$horoscopos[] = 'Movimento intenso na vida social e no trabalho, em projetos em equipe. O momento pode estar relacionado com um contato comercial com uma empresa inovadora.';
 	$horoscopos[] = 'Dia de movimento em projetos profissionais e planos de negócios, que serão colocados imediatamente em prática. O momento pode envolver imprevistos e nervosismo.';
 	$horoscopos[] = 'Dia de movimento em projetos de médio prazo, especialmente os que envolvem viagens e contato com pessoa estrangeiras. O momento pode estar relacionado com a decisão de mudar-se de país.';
-
+//teste para git commit
     
 ?>
 
